@@ -1,4 +1,4 @@
-# DevOps-Projects
+# AWS Beanstalk
 
 Elastic Beanstalk is a cloud computing service provided by Amazon Web Services (AWS) that simplifies the deployment, management, and scaling of web applications and services. It allows developers to focus on writing code rather than managing infrastructure.
 
